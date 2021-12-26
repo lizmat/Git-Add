@@ -1,0 +1,8 @@
+use Test;
+use Git::Add;
+
+plan 1;
+
+isa-ok Git::Add.new, Git::Add;
+
+# vim: expandtab shiftwidth=4
