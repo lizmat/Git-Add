@@ -1,3 +1,4 @@
 .precomp/
 /Git-Add-*
 /releases/
+*.rakucov

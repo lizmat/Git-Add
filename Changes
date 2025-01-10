@@ -1,6 +1,9 @@
 Revision history for Git-Add
 
 {{$NEXT}}
+    - Add CI badge for each S
+    - Add sponsor link
+    - Update copyright year
 
 0.0.1  2021-12-26T21:35:11+01:00
     - Initial version
